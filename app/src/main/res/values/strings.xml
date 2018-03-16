@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Problem6</string>
+    <string name="title">Các kiểu lập trình sự kiện</string>
+    <string name="soA">Số a:</string>
+    <string name="soB">Số b:</string>
+    <string name="hint_ket_qua">Kết Quả:</string>
+    <string name="btn_tong_onclick">Tổng 2 số (On Click)</string>
+    <string name="btn_tong_anonymous">Tổng 2 số (anonymous listener)</string>
+    <string name="btn_tong_activity">Tổng 2 số (activity listener)</string>
+
+</resources>
